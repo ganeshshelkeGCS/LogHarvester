@@ -1,0 +1,126 @@
+Font directories:
+	/.local/share/fonts
+	/usr/local/share/fonts
+	/usr/share/fonts
+	/.fonts
+	/usr/share/texmf/fonts/opentype/public/lm
+	/usr/share/texmf/fonts/opentype/public/lm-math
+	/usr/share/texmf/fonts/opentype/public/tex-gyre-math
+	/usr/share/texmf/fonts/opentype/public/tex-gyre
+	/usr/share/fonts/X11
+	/usr/share/fonts/cMap
+	/usr/share/fonts/cmap
+	/usr/share/fonts/opentype
+	/usr/share/fonts/truetype
+	/usr/share/fonts/type1
+	/usr/share/fonts/X11/100dpi
+	/usr/share/fonts/X11/75dpi
+	/usr/share/fonts/X11/Type1
+	/usr/share/fonts/X11/encodings
+	/usr/share/fonts/X11/misc
+	/usr/share/fonts/X11/util
+	/usr/share/fonts/cmap/adobe-cns1
+	/usr/share/fonts/cmap/adobe-gb1
+	/usr/share/fonts/cmap/adobe-japan1
+	/usr/share/fonts/cmap/adobe-japan2
+	/usr/share/fonts/cmap/adobe-korea1
+	/usr/share/fonts/opentype/cantarell
+	/usr/share/fonts/opentype/font-awesome
+	/usr/share/fonts/opentype/mathjax
+	/usr/share/fonts/opentype/urw-base35
+	/usr/share/fonts/truetype/dejavu
+	/usr/share/fonts/truetype/droid
+	/usr/share/fonts/truetype/firacode
+	/usr/share/fonts/truetype/font-awesome
+	/usr/share/fonts/truetype/freefont
+	/usr/share/fonts/truetype/hack
+	/usr/share/fonts/truetype/lato
+	/usr/share/fonts/truetype/liberation
+	/usr/share/fonts/truetype/lyx
+	/usr/share/fonts/truetype/noto
+	/usr/share/fonts/truetype/quicksand
+	/usr/share/fonts/type1/texlive-fonts-recommended
+	/usr/share/fonts/type1/urw-base35
+	/usr/share/fonts/X11/encodings/large
+/.local/share/fonts: skipping, no such directory
+/usr/local/share/fonts: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts: caching, new cache contents: 0 fonts, 6 dirs
+/usr/share/fonts/X11: caching, new cache contents: 0 fonts, 6 dirs
+/usr/share/fonts/X11/100dpi: caching, new cache contents: 358 fonts, 0 dirs
+/usr/share/fonts/X11/75dpi: caching, new cache contents: 358 fonts, 0 dirs
+/usr/share/fonts/X11/Type1: caching, new cache contents: 116 fonts, 0 dirs
+/usr/share/fonts/X11/encodings: caching, new cache contents: 0 fonts, 1 dirs
+/usr/share/fonts/X11/encodings/large: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/X11/misc: caching, new cache contents: 89 fonts, 0 dirs
+/usr/share/fonts/X11/util: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cMap: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap: caching, new cache contents: 0 fonts, 5 dirs
+/usr/share/fonts/cmap/adobe-cns1: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-gb1: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-japan1: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-japan2: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-korea1: caching, new cache contents: 0 fonts, 0 dirs
+/usr/share/fonts/opentype: caching, new cache contents: 0 fonts, 4 dirs
+/usr/share/fonts/opentype/cantarell: caching, new cache contents: 5 fonts, 0 dirs
+/usr/share/fonts/opentype/font-awesome: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/opentype/mathjax: caching, new cache contents: 24 fonts, 0 dirs
+/usr/share/fonts/opentype/urw-base35: caching, new cache contents: 35 fonts, 0 dirs
+/usr/share/fonts/truetype: caching, new cache contents: 0 fonts, 11 dirs
+/usr/share/fonts/truetype/dejavu: caching, new cache contents: 22 fonts, 0 dirs
+/usr/share/fonts/truetype/droid: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/truetype/firacode: caching, new cache contents: 6 fonts, 0 dirs
+/usr/share/fonts/truetype/font-awesome: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/fonts/truetype/freefont: caching, new cache contents: 12 fonts, 0 dirs
+/usr/share/fonts/truetype/hack: caching, new cache contents: 4 fonts, 0 dirs
+/usr/share/fonts/truetype/lato: caching, new cache contents: 18 fonts, 0 dirs
+/usr/share/fonts/truetype/liberation: caching, new cache contents: 16 fonts, 0 dirs
+/usr/share/fonts/truetype/lyx: caching, new cache contents: 12 fonts, 0 dirs
+/usr/share/fonts/truetype/noto: caching, new cache contents: 4 fonts, 0 dirs
+/usr/share/fonts/truetype/quicksand: caching, new cache contents: 4 fonts, 0 dirs
+/usr/share/fonts/type1: caching, new cache contents: 0 fonts, 2 dirs
+/usr/share/fonts/type1/texlive-fonts-recommended: caching, new cache contents: 12 fonts, 0 dirs
+/usr/share/fonts/type1/urw-base35: caching, new cache contents: 35 fonts, 0 dirs
+/.fonts: skipping, no such directory
+/usr/share/texmf/fonts/opentype/public/lm: caching, new cache contents: 72 fonts, 0 dirs
+/usr/share/texmf/fonts/opentype/public/lm-math: caching, new cache contents: 1 fonts, 0 dirs
+/usr/share/texmf/fonts/opentype/public/tex-gyre-math: caching, new cache contents: 5 fonts, 0 dirs
+/usr/share/texmf/fonts/opentype/public/tex-gyre: caching, new cache contents: 33 fonts, 0 dirs
+/usr/share/fonts/X11: skipping, looped directory detected
+/usr/share/fonts/cMap: skipping, looped directory detected
+/usr/share/fonts/cmap: skipping, looped directory detected
+/usr/share/fonts/opentype: skipping, looped directory detected
+/usr/share/fonts/truetype: skipping, looped directory detected
+/usr/share/fonts/type1: skipping, looped directory detected
+/usr/share/fonts/X11/100dpi: skipping, looped directory detected
+/usr/share/fonts/X11/75dpi: skipping, looped directory detected
+/usr/share/fonts/X11/Type1: skipping, looped directory detected
+/usr/share/fonts/X11/encodings: skipping, looped directory detected
+/usr/share/fonts/X11/misc: skipping, looped directory detected
+/usr/share/fonts/X11/util: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-cns1: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-gb1: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-japan1: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-japan2: skipping, looped directory detected
+/usr/share/fonts/cmap/adobe-korea1: skipping, looped directory detected
+/usr/share/fonts/opentype/cantarell: skipping, looped directory detected
+/usr/share/fonts/opentype/font-awesome: skipping, looped directory detected
+/usr/share/fonts/opentype/mathjax: skipping, looped directory detected
+/usr/share/fonts/opentype/urw-base35: skipping, looped directory detected
+/usr/share/fonts/truetype/dejavu: skipping, looped directory detected
+/usr/share/fonts/truetype/droid: skipping, looped directory detected
+/usr/share/fonts/truetype/firacode: skipping, looped directory detected
+/usr/share/fonts/truetype/font-awesome: skipping, looped directory detected
+/usr/share/fonts/truetype/freefont: skipping, looped directory detected
+/usr/share/fonts/truetype/hack: skipping, looped directory detected
+/usr/share/fonts/truetype/lato: skipping, looped directory detected
+/usr/share/fonts/truetype/liberation: skipping, looped directory detected
+/usr/share/fonts/truetype/lyx: skipping, looped directory detected
+/usr/share/fonts/truetype/noto: skipping, looped directory detected
+/usr/share/fonts/truetype/quicksand: skipping, looped directory detected
+/usr/share/fonts/type1/texlive-fonts-recommended: skipping, looped directory detected
+/usr/share/fonts/type1/urw-base35: skipping, looped directory detected
+/usr/share/fonts/X11/encodings/large: skipping, looped directory detected
+/var/cache/fontconfig: cleaning cache directory
+/.cache/fontconfig: not cleaning non-existent cache directory
+/.fontconfig: not cleaning non-existent cache directory
+fc-cache: succeeded
